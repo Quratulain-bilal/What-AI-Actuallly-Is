@@ -2,7 +2,7 @@
 
 **A Professional Guide for Students & Developers**
 
-Let's build the complete mental model of what AI actually is — from ground level to advanced architecture — in one connected flow. Yeh guide **GitHub-ready** hai: technically precise, deeply explained, aur students ke liye structured — taake aap machine ko **genuinely samjho**, sirf use na karo.
+Let's build the complete mental model of what AI actually is — from ground level to advanced architecture — in one connected flow. 
 
 ---
 
