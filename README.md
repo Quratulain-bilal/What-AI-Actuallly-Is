@@ -222,4 +222,4 @@ Ye **abhi bhi pure next-token prediction hai** — answer predict karna asaan au
 8. Tools + loop = agent — predict action, run for real, feed result back
 9. "Thinking" is more prediction written before the answer — doesn't create a truth-checker
 
-**Ek line mein sab kuch:** Ye ek prediction machine hai jo padh kar seekhi, jiske andar truth check karne wala koi hissa nahi — isliye ye har jagah fluent hai, reliable sirf wahan jahan bohot padha, aur **aap hi wo missing check hain**.
+**Ek line mein sab kuch:** Ye ek prediction machine hai jo parh kar seekhi, jiske andar truth check karne wala koi hissa nahi — isliye ye har jagah fluent hai, reliable sirf wahan jahan bohot parha, aur **aap hi wo missing check hain**.
