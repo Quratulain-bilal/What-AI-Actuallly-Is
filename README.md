@@ -1,6 +1,6 @@
 # What AI Actually Is — Complete Flow, All 9 Ideas
 
-Let's build the complete mental model of what AI actually is, from the ground up, one connected flow, mostly in English with Urdu jahan explanation ko easy banana ho.
+Let's build the complete mental model of what AI actually is, from the ground up
 
 ---
 
